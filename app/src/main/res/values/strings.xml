@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Dev</string>
+    <string name="app_name">Шаповал Жанна</string>
+    <string name="mobile_number_string">Мобильный телефон</string>
+    <string name="email_string">E-mail</string>
+    <string name="git_profile_string">Репозиторий</string>
+    <string name="vk_profile_string">Профиль VK</string>
+    <string name="about_string">О себе</string>
+    <string name="about_string_exmpl">Virgilio Chupadedos es
+        un alumno que no presta atención y no
+        aprende mucho. Cuando la profesora habla, Virgilio
+        siempre lee su libro de adivinanzas que
+        él tiene abierto debajo de pupitre. Virgilio tiene
+        talento para las adivinanzas y sabe muchas.
+        Aquí tiene Ud. unas adivinanzas que Virgilio lee en su libro.
+        Las respuestas están más abajo.</string>
+    <string name="projects_string">Проектов</string>
+    <string name="rating_string">Рейтинг</string>
+    <string name="code_amount_string">Написано строк кода</string>
+    <string name="amount_string_exmpl">5</string>
 </resources>
